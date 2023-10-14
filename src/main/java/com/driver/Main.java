@@ -17,5 +17,8 @@ public class Main {
     int ans1 = p.product(1,2);
     int ans2 = p.product(1,2,3);
     double ans3 = p.product(1,2);
+    System.out.println(ans1);
+    System.out.println(ans2);
+    System.out.println(ans3);
   }
 }
